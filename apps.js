@@ -4,6 +4,8 @@ let myTeam = 'Joseph and Keir';
 console.log(myTeam);
 
 function createGreeting() {
-  console.log('Hi, my name is Joe and Im 27 years old');
+    return ;
 }
-createGreeting();
+  
+  const greeting1 = createGreeting();
+  console.log(greeting1);
