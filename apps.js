@@ -4,6 +4,7 @@ let myTeam = 'Joseph and Keir';
 console.log(myTeam);
 
 function createGreeting(name, age) {
+    const yearOfBirth = 2020 - age;
     return ;
 }
   
