@@ -3,10 +3,15 @@ let myTeam = 'Joseph and Keir';
 // eslint-console-next-line no-console
 console.log(myTeam);
 
-function createGreeting(name, age) {
+  function getYearOfBirth(age){
+    return ...
+  }
+
+  function createGreeting(name, age) {
     const yearOfBirth = 2020 - age;
     return ;
+
+    const greeting1 = createGreeting();
+    console.log(greeting1);
 }
   
-  const greeting1 = createGreeting();
-  console.log(greeting1);
